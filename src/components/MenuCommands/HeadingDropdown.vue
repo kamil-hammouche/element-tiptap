@@ -40,7 +40,7 @@
           :is="'h' +i"
           data-item-type="heading"
         >
-          {{ et.t('editor.extensions.Heading.buttons.heading') }} {{ i }}
+          {{ et.t('editor.extensions.Heading.buttons.heading') }}
         </component>
       </el-dropdown-item>
     </el-dropdown-menu>
