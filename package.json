@@ -1,7 +1,7 @@
 {
   "name": "awaydrasil-element-tiptap",
-  "version": "1.29.2",
-  "description": "🌸A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue.js",
+  "version": "1.29.3",
+  "description": "🌸A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue",
   "author": "kamil-hammouche",
   "scripts": {
     "serve": "vue-cli-service serve --open examples/main.js",
