@@ -1,3 +1,16 @@
+# [1.28.0](https://github.com/kamil-hammouche/element-tiptap/compare/@1.27.0...@1.28.0) (2021-12-05)
+
+
+### Bug Fixes
+
+* 1.29.2 ([9fd2f7a](https://github.com/kamil-hammouche/element-tiptap/commit/9fd2f7a521312d867b3c8e5ce7b892dc7674a83a))
+
+
+### Features
+
+* change heading display text ([dbdf6e0](https://github.com/kamil-hammouche/element-tiptap/commit/dbdf6e0099b41da797d9854a6cc3ae70fbc96b8a))
+* disable Upload image text ([2cda265](https://github.com/kamil-hammouche/element-tiptap/commit/2cda265769d69262a53d59ee6942d69b64319274))
+
 # [1.27.0](https://github.com/Leecason/element-tiptap/compare/@1.26.2...@1.27.0) (2021-12-03)
 
 
