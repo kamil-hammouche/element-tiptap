@@ -15,6 +15,7 @@
         </div>
 
         <div
+          v-if='false'
           class="el-tiptap-popper__menu__item"
           @click="imageUploadDialogVisible = true"
         >
