@@ -1,7 +1,7 @@
 {
   "name": "@awaydrasil/element-tiptap",
   "version": "1.28.0",
-  "description": "🌸A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue",
+  "description": "A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue",
   "author": "kamil-hammouche",
   "scripts": {
     "serve": "vue-cli-service serve --open examples/main.js",
